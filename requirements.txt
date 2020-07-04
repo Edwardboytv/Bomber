@@ -1,0 +1,4 @@
+requests==2.24.0
+colorama==0.4.3
+argparse==1.4.0
+© 2020 
